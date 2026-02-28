@@ -1,7 +1,5 @@
 # Colin Perry
 
----
-
 ### About
 Colin is a self-taught developer with a deep passion for building high-performance applications. 
 He is constantly learning, but his bread and butter is absolutely **Dart** and **Flutter**.
