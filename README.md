@@ -22,7 +22,7 @@ I'm an aspiring developer interested in creating small practical tools and appli
 - Advanced application architecture
 
 ## Projects
-- Projects will be added here as they are completed.
+- *BulkImageResizer*: Bulk image resizer CLI tool for resizing all images in a directory.
 
 ## Goals
 - I would like to improve my skills with technology hardware.
