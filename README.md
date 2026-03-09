@@ -17,6 +17,7 @@ I'm an aspiring developer interested in creating small practical tools and appli
 
 ## Projects
 - *BulkImageResizer*: Bulk image resizer CLI tool for resizing all images in a directory.
+- *MarkdownLinePreview*: A web tool for real-time Markdown-to-HTML preview.
 
 ## Goals
 - I would like to improve my skills with technology hardware.
