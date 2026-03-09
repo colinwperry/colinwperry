@@ -10,13 +10,7 @@ I'm an aspiring developer interested in creating small practical tools and appli
 
 ### Languages
 - Python
-- Dart
-- Java
-
-### Tools/Platforms
-- Flutter
-- React
-- SQL
+- JavaScript
 
 ### Currently Learning
 - Advanced application architecture
