@@ -1,33 +1,18 @@
-# Hi, I'm Colin
-I'm an aspiring developer interested in creating small practical tools and applications.
+# Hi, I'm Colin!
+*A self-taught developer from the United States.*
 
-## About Me
-- I have a strong interest in app and software development.
-- I enjoy building small automation scripts or simple apps.
-- I'm currently studying Computer Science at the University of North Georgia.
+**About Me**
+I'm enrolled in the University of North Georgia currently with a plan to graduate with a bachelors in Computer Science. I have a strong passion in learning programming and data structures. I try to consistently learn new things about software and hardware, but I'm still proficient at programming to a degree I'm confident about. Some things I'm currently working on learning is self-documenting code and modular code with a focus on singular responsibility principality. To throw in a fun fact: my favorite language is absolutely python!
 
-## Tech Stack
+[![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=colinperry07)](https://github.com/colinperry07/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colinperry07)](https://github.com/colinperry07/github-readme-stats)
-
-### Currently Learning
-- Self-Documenting Code
-- Modularization with Singular Responsibility Principle
-- Virtual Environment usage
-
+**Recent Projects**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=colinperry07&repo=RandomDailyWallpaper)](https://github.com/colinperry07/RandomDailyWallpaper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=colinperry07&repo=MarkdownLinePreview)](https://github.com/colinperry07/MarkdownLinePreview)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=colinperry07&repo=BulkImageResizer)](https://github.com/colinperry07/BulkImageResizer)
 
-## Projects
-- *RandomDailyWallpaper*: Fetches NASA’s Astronomy Picture of the Day (APOD) and automatically sets it as your desktop wallpaper on Windows, macOS, and Linux.
-- *BulkImageResizer*: Bulk image resizer CLI tool for resizing all images in a directory.
-- *MarkdownLinePreview*: A web tool for real-time Markdown-to-HTML preview.
-
-## Goals
-- I would like to improve my skills with technology hardware.
-- I'd like to complete many impressive but small-scoped projects.
-- My dream career is in the cybersecurity field, such as a cybersecurity analyst.
-
-## Contact
+**Contact Me!**
 [Email](mailto:colinperry922@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/colin-perry-2066363b4/)  
 [Fiverr](https://www.fiverr.com/s/2KE2LLX)
