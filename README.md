@@ -13,7 +13,7 @@ I'm an aspiring developer interested in creating small practical tools and appli
 - JavaScript
 
 ### Currently Learning
-- Advanced application architecture
+- Self-Documenting Code
 
 ## Projects
 - *RandomDailyWallpaper*: Fetches NASA’s Astronomy Picture of the Day (APOD) and automatically sets it as your desktop wallpaper on Windows, macOS, and Linux.
