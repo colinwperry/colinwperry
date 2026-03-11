@@ -5,7 +5,7 @@
 I'm enrolled in the University of North Georgia currently with a plan to graduate with a bachelors in Computer Science. I have a strong passion in learning programming and data structures. I try to consistently learn new things about software and hardware, but I'm still proficient at programming to a degree I'm confident about. Some things I'm currently working on learning is self-documenting code and modular code with a focus on singular responsibility principality. To throw in a fun fact: my favorite language is absolutely python!  
 
 ![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=colinperry07&show_icons=true&hide_rank=true&show=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colinperry07&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colinperry07)
 
 ## Featured Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=colinperry07&repo=RandomDailyWallpaper)](https://github.com/colinperry07/RandomDailyWallpaper)
