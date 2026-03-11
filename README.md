@@ -8,12 +8,15 @@ I'm an aspiring developer interested in creating small practical tools and appli
 
 ## Tech Stack
 
-### Languages
-- Python
-- JavaScript
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/colinperry07/github-readme-stats)
 
 ### Currently Learning
 - Self-Documenting Code
+- Modularization with Singular Responsibility Principle
+- Virtual Environment usage
+
+### Skills
+
 
 ## Projects
 - *RandomDailyWallpaper*: Fetches NASA’s Astronomy Picture of the Day (APOD) and automatically sets it as your desktop wallpaper on Windows, macOS, and Linux.
