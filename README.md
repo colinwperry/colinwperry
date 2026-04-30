@@ -7,4 +7,4 @@ I'm enrolled in the University of North Georgia currently with a plan to graduat
 ### Contact Me!
 [Email](mailto:colin.w.perry@proton.me)  
 [LinkedIn](https://www.linkedin.com/in/colin-perry-2066363b4/)  
-[Portfolio](https://www.colinperry.vercel.app/)
+[Portfolio](https://colinperry.vercel.app/)
