@@ -7,10 +7,10 @@ low-latency systems programming and systems architecture
 
 ### Now
 
-* Learning C++
-* Mastering the STL
-* Improving DSA intuition
+* Collaborating on open source projects
+* Learning how to write self documenting code
+* Learning C23
 
 ### Focuses
 
-`C++23` · `Python3.14` · `Systems Programming` · `Data Structures` · `Algorithms`
+`C23` · `Python3.14` · `Systems Programming` · `Data Structures` · `Algorithms`
