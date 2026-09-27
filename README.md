@@ -9,8 +9,8 @@ low-latency systems programming and systems architecture
 
 * Collaborating on open source projects
 * Learning how to write self documenting code
-* Learning C23
+* Learning C23, C++23, and Java (JDK25)
 
 ### Focuses
 
-`C23` · `Python3.14` · `Systems Programming` · `Data Structures` · `Algorithms`
+`C23` · `Python3.14` · `Systems Programming` · `Reverse Engineering` · `Game Modification`
