@@ -13,4 +13,4 @@ low-latency systems programming and systems architecture
 
 ### Focuses
 
-`C23` · `Python3.10-14` · `Systems Programming` · `Reverse Engineering` · `Data Structures & Algos`
+`Python3.10-14` · `Systems Programming` · `Reverse Engineering` · `Data Structures & Algos`
